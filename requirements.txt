@@ -2,6 +2,5 @@ numpy
 matplotlib
 pandas
 seaborn
-warnings
 ipywidgets
 nbinteract
