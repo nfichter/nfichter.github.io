@@ -1,0 +1,8 @@
+numpy
+itertools
+matplotlib
+pandas
+seaborn
+warnings
+ipywidgets
+nbinteract
